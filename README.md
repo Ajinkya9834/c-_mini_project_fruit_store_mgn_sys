@@ -1,1 +1,1 @@
-# c-_mini_project_fruit_store_mgn_sys
+# cpp_mini_project_fruit_store_mgn_sys
