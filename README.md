@@ -10,11 +10,11 @@ Add new fruits, specifying their name, color, and price.
 View a comprehensive list of all fruits in the inventory.
 Update existing fruit information (e.g., price).
 Delete fruits from the inventory.
-Track fruit quantities (optional, can be added as an enhancement).
+Track fruit quantities 
 
 
 Order Management:
 Create new orders for customers, associating them with a customer ID.
 Add fruits to orders, selecting from the available inventory.
 Display the details of each order, including customer information, ordered fruits, and total price.
-Search for orders by customer ID (optional, can be added as an enhancement).
+Search for orders by customer ID 
