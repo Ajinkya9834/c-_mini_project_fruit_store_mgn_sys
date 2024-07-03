@@ -1,7 +1,7 @@
 # cpp_mini_project_fruit_store_mgn_sys
 Fruit Management Application:
 
-This project implements a user-friendly, command-line driven application for managing a fruit inventory. It caters to those involved in the fruit supply chain, including farms, grocery stores, wholesalers, and individuals.
+This project implements a user-friendly, command-line driven application for managing a fruit inventory. It caters to those involved in the fruit supply chain, including farms, fruit stores, wholesalers, and individuals.
 
 Key Features:
 
